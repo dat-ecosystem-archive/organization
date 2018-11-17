@@ -8,20 +8,20 @@ In August 2018, Dat Project received a Mozilla Open Source Support grant to supp
 
 ## Milestones
 
-1. Community Experience Research (3 weeks)
+### 1. Community Experience Research (3 weeks)
 
 - [ ] Conduct survey of existing community members
 - [ ] Research & document examples of conditions for community growth
 - [ ] Run user tests on existing on-boarding with select members from representative user groups.
 
-2. Dat.Land Community Prototype (4 weeks)
+### 2. Dat.Land Community Prototype (4 weeks)
 
 - [ ] Tutorial/Cookbook section covering 5-10 Dat development use cases
 - [ ] Area for showcasing Dat-built applications, encourage “dogfooding”
 - [ ] New developer on-boarding funnel
 - [ ] Process for adding community-driven pages with 2-3 examples
 
-3. Dat Documentation & Implementation Guide (9 weeks)
+### 3. Dat Documentation & Implementation Guide (9 weeks)
 
 - [ ] DEPs updates - complete specifications for all existing implementations
 - [ ] Dat Protocol Book - complete implementation guide for Hypercore module
