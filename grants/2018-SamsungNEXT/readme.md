@@ -1,5 +1,12 @@
 
-## Dat CLI and Evangelism
+# Samsung NEXT Stack Zero Grant
+
+> Description: a non-equity grant program that aims to support early-stage teams building decentralized technologies with funding, expertise, and access to the Samsung NEXT network.
+
+https://samsungnext.com/whats-next/introducing-the-samsung-next-stack-zero-grant/
+
+
+## Application: Dat CLI and Evangelism
 
 > 1. First, tell us your project's name.**
  
