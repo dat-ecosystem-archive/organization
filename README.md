@@ -19,12 +19,15 @@ As we continue to improve our transparency around operations, we hope to post ne
 
 ### 2018
 
+
+* [Samsung NEXT Stack Zero Grant](https://github.com/datproject/organization/tree/master/grants/2018-SamsungNEXT)
+  * November 30 2018: Applied
 * [Mozilla Open Source Support](https://github.com/datproject/organization/tree/master/grants/2018-MOSS)
   * April 2018: Applied
   * August 2018: Received $34,000
 * [Mozilla Open Web Fellow](https://github.com/datproject/organization/tree/master/grants/2018-MOWF)
-  * (*Date-TODO*): Applied
-  * September 2018: OWF Starting
+  * Feburary 2018: Applied
+  * September 2018: OWF Starting, Fellow working with CS&S on decentralized web.
 
 ### Pre-2018
 
