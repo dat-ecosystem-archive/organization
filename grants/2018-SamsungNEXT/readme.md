@@ -121,27 +121,27 @@ To give clarity, here's a brief overview of the relevant modules in the Hyper* e
 
 
 
-*   **_Hypercore _**is our bread and butter. It's an append-only log combined with a Merkle tree whose cryptographic properties make it easy to efficiently distribute among untrusted peers. Fundamentally, a hypercore only has a single writer, but allows for many readers.
-*   **_Hyperdrive _**behaves more like a P2P Dropbox. It's a distributed filesystem that, under the hood, is just two hypercores. Like hypercore, the current version of hyperdrive only supports a single writer with many readers.
-*   **_Hyperdb _**combines many hypercores, from different writers, into a single directory-structured view. This is the key step that enables multi-user collaboration! It's powered by a trie-like data structure, and uses vector clocks to ensure correct ordering.
+*   **_Hypercore _** is our bread and butter. It's an append-only log combined with a Merkle tree whose cryptographic properties make it easy to efficiently distribute among untrusted peers. Fundamentally, a hypercore only has a single writer, but allows for many readers.
+*   **_Hyperdrive _* *behaves more like a P2P Dropbox. It's a distributed filesystem that, under the hood, is just two hypercores. Like hypercore, the current version of hyperdrive only supports a single writer with many readers.
+*   **_Hyperdb _** combines many hypercores, from different writers, into a single directory-structured view. This is the key step that enables multi-user collaboration! It's powered by a trie-like data structure, and uses vector clocks to ensure correct ordering.
 *   **_Hypertrie_** is the core data structure currently used in hyperdb, but extract into its own module and with multiple performance improvements. It only allows for a single writer, but provides hyperdb's kv-store interface.
-*   **_Hyperswarm _**is the next generation of our networking stack. It focused on provided easy to use APIs for things like UDP hole punching (NAT traversal), distributed discovery using modular DHTs, and authenticated connectivity using the NOISE framework.
+*   **_Hyperswarm _** is the next generation of our networking stack. It focused on provided easy to use APIs for things like UDP hole punching (NAT traversal), distributed discovery using modular DHTs, and authenticated connectivity using the NOISE framework.
 
 We've spent time implementing these foundational pieces for multi-user collaboration. The next step is to integrate these components into our stack as first-class citizens, then deploy them to users. Our developer will perform the following tasks to achieve this goal:
 
-<span style="text-decoration:underline;">Test hypertrie performance in hyperdrive</span>
+##### Test hypertrie performance in hyperdrive
 
 By deploying a hypertrie-backed version of hyperdrive to users, we'll be able to test the performance of the data structure while retaining our current single-writer API. With this change alone, we're anticipating a large performance boost for hyperdrive, which will be a boon to existing projects built on Hyper*.
 
 Since this step happens behind the scenes and does not alter our public APIs, it won't involve any additional documentation. We will, however, gather community feedback about performance and stability to ensure that no regressions have occured.
 
-<span style="text-decoration:underline;">Integrate hypertrie into hyperdb</span>
+#### Integrate hypertrie into hyperdb
 
 By separating core data structures (hypertrie) from coordination logic, we have the opportunity to create a more modular version of hyperdb which can combine each writer's trie in novel ways (to support union mounting and symlinking, for example, both of which are not possible in our current prototype).
 
 With this feature complete, we'll have an extensible, fast, multi-user database that will serve as the backbone both for the next iteration of Dat, and for apps which currently depend on our hyperdb prototype.
 
-<span style="text-decoration:underline;">Integrate hyperdb into hyperdrive</span>
+#### Integrate hyperdb into hyperdrive
 
 Once we're confident that our hypertrie-based version of hyperdb performs correctly, we can then replace hypertrie with hyperdb in hyperdrive. Since hyperdb exposes a superset of the hypertrie API, this will not be a breaking change for any existing applications.
 
@@ -149,7 +149,7 @@ Most importantly, this will give us access to hyperdb's multi-user collaboration
 
 Deploying this step to users will be the final task in our push to deploy multi-user collaboration.
 
-<span style="text-decoration:underline;">Add noise-network to discovery modules</span>
+#### Add noise-network to discovery modules
 
 Currently the Hyper* stack uses a capability system for authentication. This capability system works similar to something Github gists where you share a secret link that gives you access to read the underlying data.
 
