@@ -121,11 +121,11 @@ To give clarity, here's a brief overview of the relevant modules in the Hyper* e
 
 
 
-*   **_Hypercore _** is our bread and butter. It's an append-only log combined with a Merkle tree whose cryptographic properties make it easy to efficiently distribute among untrusted peers. Fundamentally, a hypercore only has a single writer, but allows for many readers.
-*   **_Hyperdrive _* *behaves more like a P2P Dropbox. It's a distributed filesystem that, under the hood, is just two hypercores. Like hypercore, the current version of hyperdrive only supports a single writer with many readers.
-*   **_Hyperdb _** combines many hypercores, from different writers, into a single directory-structured view. This is the key step that enables multi-user collaboration! It's powered by a trie-like data structure, and uses vector clocks to ensure correct ordering.
+*   **_Hypercore_** is our bread and butter. It's an append-only log combined with a Merkle tree whose cryptographic properties make it easy to efficiently distribute among untrusted peers. Fundamentally, a hypercore only has a single writer, but allows for many readers.
+*   **_Hyperdrive_** behaves more like a P2P Dropbox. It's a distributed filesystem that, under the hood, is just two hypercores. Like hypercore, the current version of hyperdrive only supports a single writer with many readers.
+*   **_Hyperdb_** combines many hypercores, from different writers, into a single directory-structured view. This is the key step that enables multi-user collaboration! It's powered by a trie-like data structure, and uses vector clocks to ensure correct ordering.
 *   **_Hypertrie_** is the core data structure currently used in hyperdb, but extract into its own module and with multiple performance improvements. It only allows for a single writer, but provides hyperdb's kv-store interface.
-*   **_Hyperswarm _** is the next generation of our networking stack. It focused on provided easy to use APIs for things like UDP hole punching (NAT traversal), distributed discovery using modular DHTs, and authenticated connectivity using the NOISE framework.
+*   **_Hyperswarm_** is the next generation of our networking stack. It focused on provided easy to use APIs for things like UDP hole punching (NAT traversal), distributed discovery using modular DHTs, and authenticated connectivity using the NOISE framework.
 
 We've spent time implementing these foundational pieces for multi-user collaboration. The next step is to integrate these components into our stack as first-class citizens, then deploy them to users. Our developer will perform the following tasks to achieve this goal:
 
