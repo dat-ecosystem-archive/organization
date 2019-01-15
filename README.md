@@ -17,11 +17,18 @@ As we continue to improve our transparency around operations, we hope to post ne
 
 ## Grant Applications
 
+### 2019
+
+* [OTF Internet Freedom Fund](https://www.opentech.fund/funds/internet-freedom-fund/)
+  * January 2019: Applied
+
 ### 2018
 
-
+* [Handshake Free & Open Source Software Community Grant](https://www.handshake.org/)
+  * December 2018: Received $100,000
 * [Samsung NEXT Stack Zero Grant](https://github.com/datproject/organization/tree/master/grants/2018-SamsungNEXT)
   * November 30 2018: Applied
+  * January 2019: Received $63,000 ($70k with 10% fee to OpenCollective)
 * [Mozilla Open Source Support](https://github.com/datproject/organization/tree/master/grants/2018-MOSS)
   * April 2018: Applied
   * August 2018: Received $34,000
