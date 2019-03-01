@@ -6,6 +6,10 @@ In August 2018, Dat Project received a Mozilla Open Source Support grant to supp
 * [Application](application.md)
 * [Approved Statement of Work](MOSS-Dat-SoW.pdf)
 
+## Status
+
+* Completed milestone #3 and invoiced Mozilla on February 28th.
+
 ## Milestones
 
 ### 1. Community Experience Research (3 weeks)
@@ -23,18 +27,18 @@ In August 2018, Dat Project received a Mozilla Open Source Support grant to supp
 
 ### 3. Dat Documentation & Implementation Guide (9 weeks)
 
-- [ ] DEPs updates - complete specifications for all existing implementations
-- [ ] Dat Protocol Book - complete implementation guide for Hypercore module
-- [ ] Dat Project documentation updates (docs.datproject.org) with support for
+- [x] DEPs updates - complete specifications for all existing implementations
+- [x] Dat Protocol Book - complete implementation guide for Hypercore module
+- [x] Dat Project documentation updates (docs.datproject.org) with support for
 internationalization
-- [ ] Identify high-priority documentation needs for dependent modules
-- [ ] Continued development & support for dat.land community building
+- [x] Identify high-priority documentation needs for dependent modules
+- [x] Continued development & support for dat.land community building
 
 
 ## Reporting
 
 We will publish reports here when they are completed. Reports can include: how work went relative to expectations, any technical tradeoffs required, any new issues discovered, explanations of any changes from original SoW. Reports are no longer than 1-2 pages of bullet points.
 
-1. Report #1 (Due after completion of Milestone 1)
+1. Report #1 (Due after completion of Milestone 1) - COMPLETED
 2. Report #2 (Due after completion of Milestones 2 - 3)
 3. Final Blog Post - Detail what we were able to accomplish with MOSS award.
