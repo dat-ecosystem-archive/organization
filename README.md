@@ -20,7 +20,7 @@ As we continue to improve our transparency around operations, we hope to post ne
 ### 2019
   
 * [Wireline donation](https://www.wireline.io)
-  * December 2019: Received $50,000
+  * June 2019: Received $50,000
 
 ### 2018
 
