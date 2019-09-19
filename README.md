@@ -18,9 +18,9 @@ As we continue to improve our transparency around operations, we hope to post ne
 ## Grant Applications
 
 ### 2019
-
-* [OTF Internet Freedom Fund](https://www.opentech.fund/funds/internet-freedom-fund/)
-  * January 2019: Applied
+  
+* [Wireline donation](https://www.wireline.io)
+  * December 2019: Received $50,000
 
 ### 2018
 
