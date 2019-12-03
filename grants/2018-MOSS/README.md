@@ -14,9 +14,9 @@ In August 2018, Dat Project received a Mozilla Open Source Support grant to supp
 
 ### 1. Community Experience Research (3 weeks)
 
-- [ ] Conduct survey of existing community members
-- [ ] Research & document examples of conditions for community growth
-- [ ] Run user tests on existing on-boarding with select members from representative user groups.
+- [x] Conduct survey of existing community members
+- [x] Research & document examples of conditions for community growth
+- [x] Run user tests on existing on-boarding with select members from representative user groups.
 
 ### 2. Dat.Land Community Prototype (4 weeks)
 
