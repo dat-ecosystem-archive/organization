@@ -20,10 +20,10 @@ In August 2018, Dat Project received a Mozilla Open Source Support grant to supp
 
 ### 2. Dat.Land Community Prototype (4 weeks)
 
-- [ ] Tutorial/Cookbook section covering 5-10 Dat development use cases
-- [ ] Area for showcasing Dat-built applications, encourage “dogfooding”
-- [ ] New developer on-boarding funnel
-- [ ] Process for adding community-driven pages with 2-3 examples
+- [x] Tutorial/Cookbook section covering 5-10 Dat development use cases
+- [x] Area for showcasing Dat-built applications, encourage “dogfooding”
+- [x] New developer on-boarding funnel
+- [x] Process for adding community-driven pages with 2-3 examples
 
 ### 3. Dat Documentation & Implementation Guide (9 weeks)
 
