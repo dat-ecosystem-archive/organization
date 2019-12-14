@@ -15,7 +15,13 @@ If you see something missing from this repository, or have questions - please op
 
 As we continue to improve our transparency around operations, we hope to post new and existing grant applications, awards, and other related documents when applicable. We also hope to provide insight into the grant funding process. For other examples of financial transparency, see [this repository](https://github.com/joehand/open-source-finances). 
 
-## Grant Applications
+### Donations
+
+See [opencollective.com/dat](https://opencollective.com/dat) for recurring donations.
+
+* 2019 June - $50k from [Wireline.io](https://www.wireline.io/)
+
+## Grants and Grant Applications
 
 ### 2019
   
