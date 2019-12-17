@@ -10,6 +10,8 @@ A key goal was to understand the needs of the community around documentation and
 1. Documenting the protocol and guiding developers interested in implementing the Dat protocol in other languages. 
 2. A complete overhaul and rebrand of “Dat Project” into “Dat Foundation” including updating and consolidating websites and documentation.
 
+In line with our goal to operate transparently, we've published our reports to Mozilla in [this Github Repo](https://github.com/datproject/organization/tree/master/grants/2018-MOSS) and you can also view the [reports from inidividual contributors](https://github.com/datproject/organization/issues/1).
+
 **Protocol Documentation**
 
 A key challenge we’ve faced over the five years of developing Dat is prioritizing implementation of the protocol versus standardization. With a small team of developers, much of the balance has been weighed towards implementation. This award was a great opportunity to get people outside of the core Dat developers to evaluate and document the protocol, allowing for people to begin implementations in other languages.
