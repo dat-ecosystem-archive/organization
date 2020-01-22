@@ -37,6 +37,7 @@ people decide if they want to add something. Do this at the end of every agenda 
 - Record the agreed upon agenda items in the notes
 - Confirm availability for the next meeting
 - Thank everyone for coming and hand off the meeting to Mathias and Paul
+- Find someone else to facilitate next meeting
 
 ## After the meeting
 
