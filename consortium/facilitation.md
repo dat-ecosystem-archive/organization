@@ -6,7 +6,7 @@ This is a rough description of what Mauve has been doing thus far, and probably 
 improvement.
 
 ## Mock Agenda
-
+- share the notes and ask for help/assistance to taking them.
 - Catch up / Personal Updates / Announcements
   - Icebreaker question?
 - Foundation Discussion
@@ -60,7 +60,6 @@ people decide if they want to add something. Do this at the end of every agenda 
 - Try to do this before Friday
 - Send out a follow up email with the updated notes, a brief summary of interesting things, and the date of the 
 next meeting
-
 
 
 
