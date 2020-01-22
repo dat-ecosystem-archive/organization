@@ -15,7 +15,7 @@ improvement.
   - Funding strategies
   - New conspirators
 - Technical Discussion
-- Wrap up
+- Wrap up (last ~10/5 min)
   - Next meeting: Any suggested changes? 
   - Who will do facilitation?
   - Upcoming birthdays
@@ -60,6 +60,5 @@ people decide if they want to add something. Do this at the end of every agenda 
 - Try to do this before Friday
 - Send out a follow up email with the updated notes, a brief summary of interesting things, and the date of the 
 next meeting
-
 
 
