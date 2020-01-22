@@ -6,15 +6,18 @@ This is a rough description of what Mauve has been doing thus far, and probably 
 improvement.
 
 ## Mock Agenda
-- share the notes and ask for help/assistance to taking them.
+- Share the notes and ask for help/assistance to taking them
 - Catch up / Personal Updates / Announcements
-  - Icebreaker question?
+  - Icebreaker question! 
 - Foundation Discussion
   - CS&S Report by Jess or Joe
   - Event organization
   - Funding strategies
-  - New conspirators
+  - New conspirators (does anyone want to invite someone to the next meeting? who are they?) 
 - Technical Discussion
+  - DEPs
+  - hyper*
+  - UX (cli, desktop, docs) 
 - Wrap up (last ~10/5 min)
   - Next meeting: Any suggested changes? 
   - Who will do facilitation?
