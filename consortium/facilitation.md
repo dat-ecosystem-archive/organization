@@ -6,7 +6,7 @@ This is a rough description of what Mauve has been doing thus far, and probably 
 improvement.
 
 ## Mock Agenda
-- Share the notes and ask for help/assistance to taking them
+- Share the notes and ask for help/assistance 
 - Catch up / Personal Updates / Announcements
   - Icebreaker question! 
 - Foundation Discussion
