@@ -5,6 +5,21 @@ Here's a guide for facilitating Consortium calls.
 This is a rough description of what Mauve has been doing thus far, and probably has a lot of room for 
 improvement.
 
+## Mock Agenda
+
+- Catch up / Personal Updates / Announcements
+  - Icebreaker question?
+- Foundation Discussion
+  - CS&S Report by Jess or Joe
+  - Event organization
+  - Funding strategies
+  - New conspirators
+- Technical Discussion
+- Wrap up
+  - Next meeting: Any suggested changes? 
+  - Who will do facilitation?
+  - Upcoming birthdays
+
 ---
 
 ## Before the meeting
