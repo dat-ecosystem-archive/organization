@@ -5,6 +5,24 @@ Here's a guide for facilitating Consortium calls.
 This is a rough description of what Mauve has been doing thus far, and probably has a lot of room for 
 improvement.
 
+## Mock Agenda
+- Share the notes and ask for help/assistance 
+- Catch up / Personal Updates / Announcements
+  - Icebreaker question! 
+- Foundation Discussion
+  - CS&S Report by Jess or Joe
+  - Event organization
+  - Funding strategies
+  - New conspirators (does anyone want to invite someone to the next meeting? who are they?) 
+- Technical Discussion
+  - DEPs
+  - hyper*
+  - UX (cli, desktop, docs) 
+- Wrap up (last ~10/5 min)
+  - Next meeting: Any suggested changes? 
+  - Who will do facilitation?
+  - Upcoming birthdays
+
 ---
 
 ## Before the meeting
@@ -45,7 +63,5 @@ people decide if they want to add something. Do this at the end of every agenda 
 - Try to do this before Friday
 - Send out a follow up email with the updated notes, a brief summary of interesting things, and the date of the 
 next meeting
-
-
 
 
