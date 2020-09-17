@@ -5,7 +5,7 @@
 *For details on Dat project governance, see [this repository](https://github.com/datproject/governance).*
 
 * Dat Project started in **[June 2013](https://github.com/datproject/dat/tree/464679267049899eafa345125a0f2212f91be456)** and has been funded mostly by grants by US-based private foundations.
-* Dat has received ove **$1.75 million in grants** as of October 2018, which account for the majority of revenue. Additionally, Dat has received approximately $75k in private donations.
+* Dat has received over **$1.75 million in grants**, which account for the majority of revenue. Additionally, Dat has received approximately $75k in private donations.
 * Dat has been supported by groups including: Knight Foundation, Sloan Foundation, Moore Foundation, and Mozilla.
 * [Code for Science & Society](http://codeforscience.org/), a US nonprofit, was founded in September 2016 to support the Dat Project.
 
