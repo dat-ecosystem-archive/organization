@@ -17,13 +17,14 @@ As we continue to improve our transparency around operations, we hope to post ne
 
 ### Donations
 
-* 2020 July - $50k from [NLnet](https://nlnet.nl) for a Rust port
-
 See [opencollective.com/dat](https://opencollective.com/dat) for recurring donations.
 
-* 2019 June - $50k from [Wireline.io](https://www.wireline.io/)
-
 ## Grants and Grant Applications
+
+### 2020 
+
+* [NLnet](https://nlnet.nl) for a Rust port
+  * July 2020
 
 ### 2019
   
