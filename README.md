@@ -1,3 +1,9 @@
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](https://dat-ecosystem.org/) 
+
+More info on active projects and modules at [dat-ecosystem.org](https://dat-ecosystem.org/) <img src="https://i.imgur.com/qZWlO1y.jpg" width="30" height="30" /> 
+
+---
+
 # Dat Project Organizational Administration
 
 *Dat Project aims to be transparent about funding and the process of fundraising. We believe digital tools we rely on for community organization & communication should be transparently funded and operated. This repository contains information about Dat Project funding and other organizational administration.*
